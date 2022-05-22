@@ -1,0 +1,36 @@
+Modelagem de Software
+Aluno: Luanna Nogueira de Oliveira Rabelo
+	Victor Hugo Ignacio Franco
+
+
+1) Concepção de um sistema de escolha do grupo
+
+O sistema é uma loja de vendas no estilo de customização com especialização em relógio, o nome da loja é "YourHourGlass".
+O diferencial da loja é a possibilidade de customizar os produtos, podendo selecionar individualmente as pulseiras, a caixa e o vidro.
+Após a finalização da customização, salva o contato do cliente para novos produtos e a partir do primeiro cria um perfil dando sugestões para próximas compras.
+Esse sistema gerenciará os funcionários para a execução de toda atividade relacionada a montagem e envio de cada unidade.
+
+2) Ferramenta UML
+Não temos ainda
+
+3)Modelos de caso de uso preliminar
+3.1) Requisitos Preliminares Funcionais.
+a) O sistema suporta o login dos clientes, dos montadores e admnistradores.
+b) O cliente deve conseguir montar seu próprio relógio, podendo escolher pulseira, caixa e vidro.
+c) O sistema deve possibilitar que o usuario veja os relógios montados anteriormente (histórico) e também modelos pré definidos
+d) O sistema precisa permitir que quando algum funcionario faça o login, tenha acesso a lista de pedidos.
+e) A lista de pedidos deve informar o status e ser passivel de atualização em relação aos produtos. (produto enviado//produto recebido)
+f) Quando o login for feito por um administrador, ele deve conseguir acesso tanto a lista de produtos quanto a lista de funcionarios.
+g) A lista de funcionario deve ser passivel de atualizações, sendo elas: imputar, excluir, visualizar e editar informações sobre os funcionários.
+
+3.2)Requisitos Preliminares não funcionais.
+a) O sistema deve aparentar cor sobria, com destaque nos botões de compra. (Exemplo: Amazon)
+b) Qualquer cliente deve conseguir concluir uma compra, ou seja, as interações de escolha do relógio devem ser feitas a partir de imagens, facilitando a aquisição.
+
+3)Modelo de casos de uso preliminar
+*imagem dos balões
+
+Detalhamento de casos de uso:
+Cenário mais recorrente:
+1) Cliente faz login no site
+2) 

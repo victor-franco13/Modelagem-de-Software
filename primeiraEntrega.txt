@@ -11,7 +11,7 @@ Após a finalização da customização, salva o contato do cliente para novos p
 Esse sistema gerenciará os funcionários para a execução de toda atividade relacionada a montagem e envio de cada unidade.
 
 2) Ferramenta UML
-Não temos ainda
+StarUML versão 5.0.1
 
 3)Modelos de caso de uso preliminar
 3.1) Requisitos Preliminares Funcionais.
@@ -33,4 +33,11 @@ b) Qualquer cliente deve conseguir concluir uma compra, ou seja, as interações
 Detalhamento de casos de uso:
 Cenário mais recorrente:
 1) Cliente faz login no site
-2) 
+2) Faz uma seleção das especificações do relógio
+3) Realiza a compra
+4) Acontece a validação automática do pagamento
+5) Status do pedido muda para: "Em construção"
+6) As peças do relógio são encaixadas por algum funcionário
+7) O funcionário que efetuou a montagem faz o envio.
+8) Acontece a alteração de status para "A caminho".
+9) O cliente recebe o produto.
